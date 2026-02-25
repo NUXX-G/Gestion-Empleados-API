@@ -139,7 +139,3 @@ Próximamente:
 **Nelson Filipe Fardilha Karlsson**  
 [GitHub](https://github.com/NUXX-G) · [LinkedIn](https://www.linkedin.com/in/nelson-filipe-fardilha-karlsson-93078931b/) · [Portfolio](https://nelsonffkarlsson.com)
 ```
-
-git add .
-git commit -m "Add README"
-git push
